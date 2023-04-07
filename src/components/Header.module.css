@@ -1,0 +1,25 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  color: #1f4e5f;
+  border-bottom: 2px solid #aacfd0;
+
+}
+
+
+.itemlist {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 0;
+  list-style: none;
+}
+
+.itemlist>li {
+  cursor: pointer;
+  padding-left: 15px;
+  font-weight: bold;
+}

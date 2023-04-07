@@ -1,0 +1,20 @@
+.container {
+  flex-grow: 1;
+  margin: 0;
+  padding: 20px;
+  list-style: none;
+}
+
+.item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 10px;
+}
+
+.item>p {
+  flex-grow: 1;
+  margin: 0;
+  padding-left: 15px;
+}

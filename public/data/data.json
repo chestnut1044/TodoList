@@ -1,0 +1,18 @@
+[
+  {
+    "name": "공부하기",
+    "isDid": "True"
+  }, 
+  {
+    "name": "하스하기",                  
+    "isDid": "False"
+  },
+  {
+    "name": "메이플하기",                  
+    "isDid": "False"
+  },
+  {
+    "name": "롤하기",                  
+    "isDid": "False"
+  }
+]
